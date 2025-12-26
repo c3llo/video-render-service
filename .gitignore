@@ -1,0 +1,22 @@
+# dependencies
+node_modules/
+
+# build
+.next/
+dist/
+out/
+
+# env
+.env*
+!.env.example
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# OS
+.DS_Store
+
+# video output
+*.mp4

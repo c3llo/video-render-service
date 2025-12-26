@@ -1,0 +1,18 @@
+{
+  "name": "video-render-service",
+  "private": true,
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "remotion": "remotion preview src/index.ts"
+  },
+  "dependencies": {
+    "next": "14.x",
+    "react": "18.x",
+    "react-dom": "18.x",
+    "remotion": "^4.x",
+    "@remotion/renderer": "^4.x"
+  }
+}
