@@ -9,10 +9,15 @@
     "remotion": "remotion preview src/index.ts"
   },
   "dependencies": {
+    "@remotion/renderer": "^4.x",
     "next": "14.x",
     "react": "18.x",
     "react-dom": "18.x",
-    "remotion": "^4.x",
-    "@remotion/renderer": "^4.x"
+    "remotion": "^4.x"
+  },
+  "devDependencies": {
+    "@types/node": "^25.0.3",
+    "@types/react": "^19.2.7",
+    "typescript": "^5.9.3"
   }
 }
