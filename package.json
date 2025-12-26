@@ -6,7 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "remotion": "remotion preview src/index.ts"
+    "remotion": "remotion preview src/index.tsx"
   },
   "dependencies": {
     "@remotion/renderer": "^4.x",
